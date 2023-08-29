@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplicación de Saludo</string>
+    <string name="ingrese_nombre">Ingrese su nombre</string>
+    <string name="enviar">Enviar</string>
+</resources>
